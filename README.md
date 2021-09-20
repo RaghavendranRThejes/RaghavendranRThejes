@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaghavendranRThejes
+- 👋 Hi, I’m @King_thejes
 - 👀 I’m interested in Product management, coding
 - 🌱 I’m currently learning Python and User experience.
 - 💞️ I’m looking to collaborate on ...
